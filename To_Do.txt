@@ -9,8 +9,8 @@ Things to address:
 -Clendening
 
 What to complete during break:
-1) 1200 due notecards
-2) Notecards new lectures seen on Sketchy
+1) 1200 due notecards (1000 left)
+2) Notecards new lectures seen on Sketchy (4 left)
 3) Watch and notecard 3-4 sketchy lectures
 4) Figure out STEP I materials and plan
 5) Finish Ch. 2 of Spanish
@@ -26,9 +26,9 @@ Daily:
 
 --12/29/2017--
 [ ]Labor and delivery*****
-[ ]Spanish or music*** (Spanish notecards)
-[ ]Sketchy, Anatomy and Random Journal notecards**
-[ ]Due notecards* (at least 200)
+[/]Spanish or music*** (Spanish notecards)
+[X]Sketchy, Anatomy and Random Journal notecards**
+[X]Due notecards* (at least 200)
 [ ]Plan STEP I schedule******
 [/]Help Mollie with the house****
 [ ]Loring -- car -- oil
