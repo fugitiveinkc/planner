@@ -19,9 +19,9 @@ Not notecarded: 3 immunology sketchy, 1 cardiac sketchy, 1/2 of polycythemia lec
 
 Daily:
 -STEP I: 3-5 hours 
-??	-100 new notecards (~1 hour)
+X	-100 new notecards (~1 hour)
 X	-200-300 due notecards (~1 hour)
-??	-29 new anatomy cards, 60-90 due anatomy notecards (~30 minutes)
+/ (almost done)	-29 new anatomy cards, 60-90 due anatomy notecards (~30 minutes)
 / (almost done)	-4 pages of BRS physiology, notecard hard subjects (~30 minutes)
 X	-Sketchy (2 new lectures), notecards 4 lectures, do new notecards and due notecards (~2 hours)
 	-210 questions of USMLE-Rx on the weekend
@@ -54,9 +54,8 @@ NEWS (NPR)
 
 
 After eating:
-2) Do notecards for lecture
-3) Notecard what you left out
-4) Due anatomy (due/new), Phys (new), New notecards (100)
+3) Notecard what you left out (tonight?)
+4) Phys (new) 
 5) Call labor and delivery
 6) Check KK's sign up sheet
 
