@@ -40,7 +40,7 @@ Literature search:
 NEWS
 
 1 hour new STEP I notecards
-BRS Physiology (make new notecards, do due notecards)
-Sketchy (due, new, 5 lectures)
-1 lecture + notecards
+BRS Physiology (make new notecards, do due notecards)*
+Sketchy (due, new, 5 lectures)***
+1 lecture + notecards**
 Anatomy notecards
