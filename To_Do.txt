@@ -46,13 +46,13 @@ SPANISH
 
 Need to schedule extra: Anatomy recalculate, USMLE-Rx re-evaluate, Spanish, Check what your study plan is missing
 
-STEP I due notecards -- 1 hour
-Lecture + due notecards -- 1 hour
-STEP I new notecards -- 1 hour
-Lecture + new notecards -- 1 hour
-(1/2) Sketchy new and due lectures, notecard 1 new lecture -- 1.5 hours
-Music for Doctor's notes -- 30 minutes
-Histopathology quiz -- 30 minutes
+***STEP I due notecards -- 1 hour
+****Lecture + due notecards -- 1 hour
+*****STEP I new notecards -- 1 hour
+******Lecture + new notecards -- 1 hour
+*******(1/2) Sketchy new and due lectures, notecard 1 new lecture -- 1.5 hours
+*Music for Doctor's notes -- 30 minutes
+**Histopathology quiz -- 30 minutes
 Lecture + new notecards -- 1 hour
 (1/2) Sketchy new and due lectures, notecard 1 new lecture -- 1.5 hours
 Lecture + new notecards -- 1 hour
