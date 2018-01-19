@@ -15,10 +15,10 @@ Behind: 110 Q bank questions
 
 Daily:
 -STEP I: 3-5 hours (Starting 1/18/2018) 
-X	-100 new notecards (~1 hour)
-X	-200-300 due notecards (~1 hour)
-X	-4 pages of BRS physiology, notecard hard subjects (~30 minutes)
-()	-Sketchy, notecards 2-3 lectures, 3 pathogen lectures, do new notecards and due notecards (~2 hours) 
+	-100 new notecards (~1 hour)
+	-200-300 due notecards (~1 hour)
+	-4 pages of BRS physiology, notecard hard subjects (~30 minutes)
+	-Sketchy, notecards 2-3 lectures, 3 pathogen lectures, do new notecards and due notecards (~2 hours) 
 	-USMLE-Rx 40 question blocks, once per week
 Crucial: Sketchy -- 3-4 hours, BRS Phys/Due notecards -- 1 hour, 100 new notecards -- 1 hour, USMLE-Rx on the weekends -- 2 hours
 
@@ -32,7 +32,6 @@ Literature search:
 Pathoma, Sketchy
 
 RENEW FAFSA
-ESSAY
 LEMASTER
 BUDDY
 
@@ -46,7 +45,14 @@ NEWS
 CATHOLIC WORKER
 
 
-PAPER
-SKETCHY IF TIME
-STEP I NOTECARDS IF TIME
-SPANISH
+12pm -- Due STEP I notecards
+1pm -- New and due medical journal notecards
+2:30pm -- Due and new lecture notecards
+3:45pm -- Lecture and new notecards
+5pm -- Lecture and new notecards
+5pm-6pm Dinner
+6pm -- BRS 4 pages, new notecards
+7pm -- Lecture and new notecards
+8pm -- Sketchy lectures, new notecards, 3 pathogen lecture
+9:45pm -- STEP I new notecards
+10:45pm -- Piano
