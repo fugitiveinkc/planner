@@ -10,13 +10,11 @@ Not notecarded: 1 cardiac sketchy
 
 Daily:
 -STEP I: 3-5 hours (Starting 1/18/2018) 
-3	-BrosWorld 1.0 w/ selective review + Anatomy, 50 + 50 per day 
-2	-5 pages of BRS physiology, notecard hard subjects 
-1	-Sketchy, notecards 2-3 lectures, 3 pathogen lectures, do new notecards and due notecards 
+	-BrosWorld 1.0 w/ selective review + Anatomy, 50 + 50 per day 
+	-5 pages of BRS physiology, notecard hard subjects 
+	-Sketchy, notecards 2-3 lectures, 3 pathogen lectures, do new notecards and due notecards 
 	-USMLE-Rx 40 question blocks, once per week
 -Every Sunday: 15 review Sketchy (30 for the next sunday)
-
-The Bizness - De La Soul
 
 Literature search:
 -Popping infection
@@ -26,51 +24,48 @@ Literature search:
 ED
 PARENTS
 TIM
-BRYNNE
 
+Sketchy total: 147 done (359 total)
 
-[ ]Sketching
+[|]Sketching
 [ ]Piano
 [ ]Computer Science
 [ ]Mathematics
 [ ]Spanish
 [ ]Social justice
 [ ]Language-writing
-[ ]Volunteer
+[||]Volunteer
 
-7.5 lectures behind
-9 notecard lectures behind
-Draw pictures for drugs you don't know
+11 lectures behind
+13 notecard lectures behind
+
+To do
+	Due lecture notecards
+	New lecture notecards
+	4 new lectures
+	------------------------
+	BRS Physiology
+	Due medical journal notecards
+	New medical journal notecards
+	BrosWorld/Anatomy
+	Sketchy lecture
+	------------------------
+	Language-writing
+
+Left over: Add new notecards for sketchy lectures, go through case and make sparknotes and finish questions
 
 
-All antiarrhythmics (5) - 1 hour and 10 minutes
-5 cardiac disorders - 1.5 hours
-5 pathogens - 45 minutes
-Due medical notecards - 2 hours
-Due lecture notecards - 1 hour
-New medical notecards - 2 hours
-2 lectures - 1.5 hours
-BRS Physiology - 1 hour
+3:30pm - 5:00pm Due medical journal notecards
+	5:00pm - 5:40pm Figure out stuff with Mollie
+		5:40pm - 6:10pm Due medical journal notecards
+			6:10 - 7:10pm Due lecture notecards
+				7:10pm - 9:10pm New medical journal notecards
+					9:10pm - 10:10pm Dinner
+						10:10pm - 12:10am Sketchy lectures
+							12:10am - 1:10am BRS Physiology
+								1:10am - 2:10am BrosWorld/Anatomy
+									2:10am - 4:10am 4 new lectures, new lecture notecards
+									(Language/writing)
+							 
 
-Wake up 6:30am
-
-7am
-Reformulate
-Reoragnize other activities
-Make schedule
-7:30am
-
-Due medical notecards 8am - 10am
-Due lecture notecards 10am - 11am
-Walk 11am-11:20am
-5 cardiac disorders 11:20am - 12:50pm
-Lunch 12:50pm - 1:50pm
-Antiarrhythmics 1:50pm - 3pm
-5 pathogens 3pm - 3:45pm
-New medical notecards 3:45pm - 4:50pm
-(EVALUATE FROM HERE -- 2 lectures, BRS Physiology, new medical notecards) -- WHIP
-BRS Physiology 9:30pm
-New medical notecards 10:30pm-11pm
-2 lectures 11pm-12am
-Bed by midnight, take meds by 10pm
 
